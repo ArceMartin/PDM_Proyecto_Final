@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">PDM Proyecto Final</string>
+  <string name="busqueda_receta">Busqueda de receta</string>
+  <string name="recetas_guardadas">Recetas Guardadas</string>
+  <string name="detalle">Detalles de receta</string>
+  <string name="api_search">Busqueda en EDAMAM</string>
+  <string name="back_button">Back</string>
+  <string name="ingrediente">Ingrediente:</string>
+  <string name="proyecto_final">Programación de Dispositivos Móviles\nProyecto Final\nMartín Arce\n1103883</string>
+  <string name="buscar">Buscar</string>
+  <string name="selecciona_ingrediente">Selecciona ingrediente</string>
+  <string name="loading">Cargando</string>
+  <string name="loading_failed">Error de carga</string>
+</resources>
